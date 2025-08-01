@@ -1,1 +1,2 @@
-# EEG-Emotion-Recognition<img width="800" height="500" alt="132" src="https://github.com/user-attachments/assets/e57b5e9a-90be-4e2b-9bfa-d582a9f37f57" />
+# EEG-Emotion-Recognition
+<img width="1587" height="2245" alt="bci2" src="https://github.com/user-attachments/assets/9cd4047c-b0f7-48f4-95e6-f1562a6ad522" />
